@@ -25,7 +25,7 @@
 
 Hi, I'm Amit Verma, a Full Stack Developer 🚀 from Canada, currently, I'm a  Internee 👨🏽‍💼[@CityofWinnipeg](https://www.winnipeg.ca/interhom/).
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<iframe src="https://giphy.com/embed/xT1XGzXhVgWRLN1Cco" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-code-coding-learn-to-xT1XGzXhVgWRLN1Cco"></a></p>
   
 **Talking about Personal Stuffs:**
 
